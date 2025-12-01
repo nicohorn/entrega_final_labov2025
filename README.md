@@ -4,6 +4,8 @@ Workflow para predecir fuga de clientes bancarios usando LightGBM.
 
 Competencia Kaggle: `laboi-2025-virtual-gerencial`
 
+Link al repositorio con todas los experimentos realizados durante el cursado de la asignatura: https://github.com/nicohorn/labo2025v
+
 ## Ejecucion
 
 1. Abrir `610_gerencial_nicolas_horn_v8.ipynb` en Google Colab
