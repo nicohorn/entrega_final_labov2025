@@ -2,7 +2,7 @@
 
 Workflow para predecir fuga de clientes bancarios usando LightGBM.
 
-Competencia Kaggle: `dm-ey-f-2025-primera`
+Competencia Kaggle: `laboi-2025-virtual-gerencial`
 
 ## Ejecucion
 
@@ -24,7 +24,7 @@ Una vez ejecutado el notebook, los CSVs quedan en:
 Para enviar manualmente desde Colab:
 
 ```bash
-kaggle competitions submit -c dm-ey-f-2025-primera -f archivo.csv -m "mensaje"
+kaggle competitions submit -c laboi-2025-virtual-gerencial -f archivo.csv -m "mensaje"
 ```
 
 O descargar los CSVs y subirlos desde la web de Kaggle.
